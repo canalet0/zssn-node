@@ -1,0 +1,19 @@
+{
+  "name": "zssn",
+  "version": "1.0.0",
+  "description": "zombie survivor social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canalet0/zssn-node.git"
+  },
+  "author": "rafaelcanal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canalet0/zssn-node/issues"
+  },
+  "homepage": "https://github.com/canalet0/zssn-node#readme"
+}
