@@ -1,0 +1,9 @@
+{
+  "datasource": {
+    "host":"localhost",
+    "name":"zssn_node",
+    "port":"5432",
+    "username":"zssn_admin",
+    "password":"zssn_admin"
+  }
+}
